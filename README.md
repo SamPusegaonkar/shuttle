@@ -3,7 +3,7 @@ A tensorflow API implementation for detecting shuttle cocks - ROBOCON
 
 **Description**
   
-  This project is inspired by the Robocon competioion. The task for the robot is to play a game of badmintion. This program will detect shuttlecocks by making use for the tensorflow API. The repo consists of a small dataset for the same.
+  This project is inspired by the Robocon competition. The task for the robot is to play a game of badmintion. This program will detect shuttlecocks by making use of the tensorflow API. The repo consists of a small dataset for the same.
   
 **Pre-requisites:** 
 
