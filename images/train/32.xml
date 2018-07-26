@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shuttle cork _ Google Search</folder>
+	<filename>32.jpg</filename>
+	<path>C:\Users\Satish Pusegaonkar\Downloads\shuttle cork _ Google Search\32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>199</width>
+		<height>254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shuttle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>14</ymin>
+			<xmax>190</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>
