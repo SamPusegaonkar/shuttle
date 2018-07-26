@@ -1,2 +1,2 @@
 # shuttle
-A tensorflow API implementation for detecting shuttlecocks - ROBOCON
+A tensorflow API implementation for detecting shuttle cocks - ROBOCON
