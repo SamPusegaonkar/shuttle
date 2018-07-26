@@ -99,6 +99,7 @@ image_expanded = np.expand_dims(image, axis=0)
 
 # Draw the results of the detection (aka 'visulaize the results')
 
+
 vis_util.visualize_boxes_and_labels_on_image_array(
     image,
     np.squeeze(boxes),
