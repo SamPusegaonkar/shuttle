@@ -14,4 +14,5 @@ A tensorflow API implementation for detecting shuttle cocks - ROBOCON
   1. labelmap.pbtxt belongs in the training folder.
   2. train.record and test.record belongs in the object_detection folder.
   3. images folder belongs inside the object_detection folder.
+  4. move the csv files into the images folder
   
