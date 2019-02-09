@@ -16,6 +16,9 @@ A tensorflow API implementation for detecting shuttle cocks - ROBOCON
     2. train.record and test.record belongs in the object_detection folder.
     3. images folder belongs inside the object_detection folder.
     4. move the csv files into the images folder
+  
+ ![alt text](https://github.com/SamPusegaonkar/shuttle/blob/master/OUTPUT.JPG)
+ ![alt text](https://github.com/SamPusegaonkar/shuttle/blob/master/OUTPUT_.JPG)
 
   tweet @sampusegaonkar 
   
